@@ -1,0 +1,15 @@
+com/bodycodi/test/service/MessageService.class
+com/bodycodi/test/common/AuthenticationInterceptor.class
+com/bodycodi/test/WebMvcConfig.class
+com/bodycodi/test/dto/UserDto.class
+com/bodycodi/test/controller/MessageController.class
+com/bodycodi/test/Application.class
+com/bodycodi/test/dto/TokenDto.class
+com/bodycodi/test/controller/UserController.class
+com/bodycodi/test/repository/UserRepository.class
+com/bodycodi/test/dto/MessageDto.class
+com/bodycodi/test/repository/UserRepository$1.class
+com/bodycodi/test/repository/MessageRepository.class
+com/bodycodi/test/dto/ContentDto.class
+com/bodycodi/test/Controller.class
+com/bodycodi/test/service/UserService.class

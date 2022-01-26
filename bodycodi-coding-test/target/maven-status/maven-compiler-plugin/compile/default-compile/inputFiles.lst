@@ -1,0 +1,14 @@
+/Users/kimsunho/Desktop/bodycodi-coding-test/src/main/java/com/bodycodi/test/controller/MessageController.java
+/Users/kimsunho/Desktop/bodycodi-coding-test/src/main/java/com/bodycodi/test/controller/UserController.java
+/Users/kimsunho/Desktop/bodycodi-coding-test/src/main/java/com/bodycodi/test/repository/MessageRepository.java
+/Users/kimsunho/Desktop/bodycodi-coding-test/src/main/java/com/bodycodi/test/service/MessageService.java
+/Users/kimsunho/Desktop/bodycodi-coding-test/src/main/java/com/bodycodi/test/WebMvcConfig.java
+/Users/kimsunho/Desktop/bodycodi-coding-test/src/main/java/com/bodycodi/test/dto/UserDto.java
+/Users/kimsunho/Desktop/bodycodi-coding-test/src/main/java/com/bodycodi/test/common/AuthenticationInterceptor.java
+/Users/kimsunho/Desktop/bodycodi-coding-test/src/main/java/com/bodycodi/test/dto/TokenDto.java
+/Users/kimsunho/Desktop/bodycodi-coding-test/src/main/java/com/bodycodi/test/Controller.java
+/Users/kimsunho/Desktop/bodycodi-coding-test/src/main/java/com/bodycodi/test/service/UserService.java
+/Users/kimsunho/Desktop/bodycodi-coding-test/src/main/java/com/bodycodi/test/repository/UserRepository.java
+/Users/kimsunho/Desktop/bodycodi-coding-test/src/main/java/com/bodycodi/test/Application.java
+/Users/kimsunho/Desktop/bodycodi-coding-test/src/main/java/com/bodycodi/test/dto/MessageDto.java
+/Users/kimsunho/Desktop/bodycodi-coding-test/src/main/java/com/bodycodi/test/dto/ContentDto.java
